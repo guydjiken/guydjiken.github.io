@@ -2,7 +2,8 @@
 
 #### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
 
-## Skills/Qualification
+## Areas of expertise/Qualification
+### Areas of expertise/Qualification
 - Ph.D., Computer Science | The University of Paris-Est Creteil - France (_December 2018_)
   
 ## Certifications/Organisation
