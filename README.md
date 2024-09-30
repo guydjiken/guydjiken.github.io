@@ -125,15 +125,7 @@ Used **Matlab** to train over 100 machine learning models which estimated partic
 
 ![Bike Study](/assets/img/bike_study.jpeg)
 
-## Talks & Lectures
-- Causality: The new science of an old question - GSP Seminar, Fall 2021
-- Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
-- Guest Lecture: Fourier and Wavelet Transforms - Scientific Computing (PHYS 5315), Fall 2020
-- A Brief Introduction to Optimization - GSP Seminar, Fall 2019
-- Weeks of Welcome Poster Competition - UTD, Fall 2019
-- A Brief Introduction to Networks - GSP Seminar, Spring 2019
 
-- [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
 
 ## Publications
 1. Fabrice M., Guy L. D., and Laurent N., New Software Architecture for Monitoring Mobile Applications, International Journal On Advances in Internet Technology, volume 15, numbers 3 and 4, 2022, Dec 31, 2022.
@@ -142,4 +134,4 @@ Used **Matlab** to train over 100 machine learning models which estimated partic
 4. Guy L. D., Fabrice M., and Charif M., Towards a Formal Definition of Mobile Cloud Computing, CAL 2016, Feb 12, 2016.
 5. Guy L. D., Fabrice M., and Asnae M., Design of Mobile Services for Embedded Device, ICONS2017, ISBN: 978-1-61208-547-0.
 
-- [Data Science Blog](https://medium.com/@shawhin)
+- [Cybersecurity YouTube](https://www.youtube.com/channel/@lahloudjiken)
