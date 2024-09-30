@@ -128,10 +128,10 @@ Used **Matlab** to train over 100 machine learning models which estimated partic
 
 
 ## Publications
-1. Fabrice M., Guy L. D., and Laurent N., New Software Architecture for Monitoring Mobile Applications, International Journal On Advances in Internet Technology, volume 15, numbers 3 and 4, 2022, Dec 31, 2022.
-2. Guy L. D., Fabrice M., and Charif M., Indexing Large Amount of Log Data for Predictive Maintenance, International Journal on Advances in Networks and Services, Dec 20, 2021.
-3. Fabrice M., Charif M., and Guy L. D., Distributed Search on a Large Amount log Data : Full text in a Big Data Architecture, ALLDATA2021, Nov 30, 2021.
-4. Guy L. D., Fabrice M., and Charif M., Towards a Formal Definition of Mobile Cloud Computing, CAL 2016, Feb 12, 2016.
-5. Guy L. D., Fabrice M., and Asnae M., Design of Mobile Services for Embedded Device, ICONS2017, ISBN: 978-1-61208-547-0.
+1. Fabrice M., Guy L. D., and Laurent N., New Software Architecture for Monitoring Mobile Applications, International Journal On Advances in Internet Technology, volume 15, numbers 3 and 4, 2022, Dec 31, 2022. [here](https://personales.upv.es/thinkmind/IntTech/IntTech_v15_n34_2022/inttech_v15_n34_2022_4.html)
+2. Guy L. D., Fabrice M., and Charif M., Indexing Large Amount of Log Data for Predictive Maintenance, International Journal on Advances in Networks and Services, Dec 20, 2021. [Here](https://www.iariajournals.org/networks_and_services/netser_v14_n12_2021_paged.pdf#page=41)
+3. Fabrice M., Charif M., and Guy L. D., Distributed Search on a Large Amount log Data : Full text in a Big Data Architecture, ALLDATA2021, Nov 30, 2021. [Here](https://personales.upv.es/thinkmind/dl/conferences/alldata/alldata_2021/alldata_2021_1_50_80017.pdf)
+4.  Charif M., Fabrice M., Guy L. D., and Atik. Y., Vers une definition formelle du Cloud Computing Mobile, CAL 2016, France, p 66-81, Juin 2016. [Here](https://events.femto-st.fr/sites/femto-st.fr.gdr-gpl-2016/files/content/CAL-2016.pdf)
+5. Guy L. D., Fabrice M., and Asnae M., Design of Mobile Services for Embedded Device, ICONS2017, ISBN: 978-1-61208-547-0. [Here](https://personales.upv.es/thinkmind/ICONS/ICONS_2017/icons_2017_2_20_48008.html)
 
 - [Cybersecurity YouTube](https://www.youtube.com/channel/@lahloudjiken)
