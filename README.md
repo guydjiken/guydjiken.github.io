@@ -2,7 +2,7 @@
 ## Summary/About Me
 Experienced cybersecurity professional transitioning from a strong DevOps background, skilled in securing cloud environments and implementing security best practices across development pipelines.
 Proficient in Linux, SQL, Python, and cloud platforms such as AWS and Azure, with hands-on experience integrating security controls into DevOps workflows.
-Certified in CompTIA Security+, AWS, Google, and (ISC)² Certified in Cybersecurity (CC), with expertise in threat identification, vulnerability management, and compliance with industry standards like NIST.
+Certified in CompTIA Security+, AWS, Google Cybersecurity Professional, and CCNA Certified in Network (Cisco), with expertise in threat identification, vulnerability management, and compliance with industry standards like NIST.
 Seeking a role where data security is critical, ensuring the protection and management of sensitive information in compliance with privacy regulations.
 ## Areas of expertise/Qualification
 
@@ -62,7 +62,7 @@ Seeking a role where data security is critical, ensuring the protection and mana
 - Splunk Enterprise certified Architect | Splunk (_January 2014)
 - AWS Certified Cloud Practitioner | Amazon Web Services (_December 2023_)
 - CompTIA Security+ Certificate | CompTIA (_August 2023_)
-- CompTIA A+ Certificate | CompTIA (_August 2023_)
+- CompTIA A+ Certificate | CompTIA (_June 2023_)
 - Certificate of Completion Git and GitHub | 365 Data Science (_April 2023_)
 - Certificate of Completion Data Analysis with Excel Pivot tables | 365 Data Science (_February 2023_)
 - Certificate of Completion Data Strategy | 365 Data Science (_January 2023_)
