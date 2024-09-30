@@ -111,17 +111,22 @@ Seeking a role where data security is critical, ensuring the protection and mana
 - Advised clients on cybersecurity strategy and implemented security frameworks, resulting in a notable reduction of security risks and a 25% increase in audit compliance scrores, and alignment with best practices.
 
 ## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
+### Cybersecurity 
 [Publication](https://www.mdpi.com/1424-8220/22/8/3048)
 
 Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
 
 ![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
 
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
+### Cloud Computing
 [Publication](https://www.mdpi.com/1424-8220/22/11/4240)
 
 Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
+
+### Network Architecture
+[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
+
+Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We 
 
 ![Bike Study](/assets/img/bike_study.jpeg)
 - [Certification](https://drive.google.com/drive/folders/1FvMT5sQbRIF7yCM1r0YC4RDufxFemc9l)
