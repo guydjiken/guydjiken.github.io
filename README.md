@@ -1,5 +1,9 @@
 # Cybersecurity Analyst | Cloud Security | DevOps Engineer
-
+## Summary/About Me
+Experienced cybersecurity professional transitioning from a strong DevOps background, skilled in securing cloud environments and implementing security best practices across development pipelines.
+Proficient in Linux, SQL, Python, and cloud platforms such as AWS and Azure, with hands-on experience integrating security controls into DevOps workflows.
+Certified in CompTIA Security+, AWS, Google, and (ISC)² Certified in Cybersecurity (CC), with expertise in threat identification, vulnerability management, and compliance with industry standards like NIST.
+Seeking a role where data security is critical, ensuring the protection and management of sensitive information in compliance with privacy regulations.
 ## Areas of expertise/Qualification
 
 #### Security/Compliance Frameworks
