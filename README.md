@@ -1,27 +1,110 @@
-# Cybersecurity Analyst
-
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+# Cybersecurity Analyst | Cloud Security | DevOps Engineer
 
 ## Areas of expertise/Qualification
-### Areas of expertise/Qualification
-- Ph.D., Computer Science | The University of Paris-Est Creteil - France (_December 2018_)
-  
+
+#### Security/Compliance Frameworks
+- Payment Card Industry Data Security Standard Compliance (PCI DSS)
+- NIST CyberSecurity Framework 2.0
+- NIST Risk Management Framework (RMF)
+
+#### Security Strategy
+- Security Hardening: Patch update, Server backup, Cryptography, Baseline image
+- Incident Response Playbook: Business continuity plan, Response and recovery
+- Security control and Identity Access Management (IAM)
+
+#### Virtualization/Operation System (OS)
+- Cloud: Amazon Web Service (AWS), Microsoft Azure, Google Cloud Platform
+- Hypervisor: VMware ESXi, VirtualBox
+- OS: RedHat, Kali-Linux, Ubuntu, Fedora, Microsoft Windows
+
+#### Firewall/Endpoint Detection Response (EDR)
+- Cloud: Amazon Web Service (AWS) Firewall Manager
+- PfSense, SonicWall, Cisco ASA
+- EDR: Microsoft Defender EDR, Symantec EDR
+
+#### Programming/Database
+- Programming: SQL, Python, JavaScript, Java
+- Data serialization language: Yaml, Json
+- Database: Relational (Oracle, MySQL), NoSQL (MongoDB, Redis), Data Warehouse (Redshift)
+
+#### Agile Methodology/Data Modelling
+- Ticketing: Jira, Slack
+- Documentation: Github, Google suite, Confluence
+
+#### Automation/Infrastructiure as Code
+- CI/CD: GitLab, Jenkins, GitOps, AWS codePipeline
+- IaC: Ansible, Terraform, Puppet, Chef
+- Orchestration: Kubernetes, OpenShift, AWS Faragate
+
+#### Monitoring/Logging
+- SIEM: Splunk, Google Chronicle, FortiSIEM
+- Logging: Active Directory logs, Syslog-ng 
+
+#### Network Architecture/Application
+- Defense in Depth: Firewall, IDS, IPS, EDR, Segmentation, DMZ
+- Identity Access Management: MFA, Least privilege, Strong Passowrd, VPN
+- Protocol: IPSec, TLS/SSL, HTTP, Telnet, HTTPS, SMNP, RDP, Kerberos
+
+#### Artificiel Intellegence/Large Language Model
+- Machine Learning: Supervised learning, Unsupervised learning, Reinforcement learning
+- Generative AI: ChatGPT, Gemini, Microsoft copilot
+
 ## Certifications/Organisation
-- Ph.D., Computer Science | The University of Paris-Est Creteil - France (_December 2018_)
+- Certified Ethical Hacker (CEH) v12 | EC_Council (In progress)
+- Google Cybersecurity Certificate | Google-Coursera (_September 2024_)
+- Cisco Certified Network Associate (CCNA) | Cisco (_August 2024_)
+- AWS Certified SysOps Administrator - Associate | Amazon Web Services (_May 2024_)
+- AWS Certified Solution Architect - Associate | Amazon Web Services (_April 2024_)
+- Splunk Enterprise certified Architect | Splunk (_January 2014)
+- AWS Certified Cloud Practitioner | Amazon Web Services (_December 2023_)
+- CompTIA Security+ Certificate | CompTIA (_August 2023_)
+- CompTIA A+ Certificate | CompTIA (_August 2023_)
+- Certificate of Completion Git and GitHub | 365 Data Science (_April 2023_)
+- Certificate of Completion Data Analysis with Excel Pivot tables | 365 Data Science (_February 2023_)
+- Certificate of Completion Data Strategy | 365 Data Science (_January 2023_)
+- Certificate of Completion Power BI | 365 Data Science (_January 2023_)
+- Google Analytics individual Qualification | Google (September 2022_) 
 
 ## Education/Workforce
+- Google Cybersecurity Professinal  - coursera | Techsgivings (October 2024_)
+- Cloud Computing Certification WDLL | University of District of Columbia - USA (September 2023_)
+- Training Certified Ethical Hacker (CEH) v12 | VETS GROUP (November 2023_)
+- Training Payment Card Industry Data Security Standard (PCI DSS) v4.0.1 | Baxter Clexis Academy (May 2023_)
+
 - Ph.D., Computer Science | The University of Paris-Est Creteil - France (_December 2018_)		       		
 - M.S., Computer Science	| The University of Yaounde I - Cameroon (_September 2010_)	 			        		
 - B.S., Computer Science | The University of Yaounde I - Cameroon (_May 2008_)
 
-## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+## Work Experience
+**DevOps Enegineer remote @ Techdeval SAS - France (_June 2023 - May 2024_)**
+- Automated software deployment processes, reduced deployment times from 2 hours/days to 10 minutes/hours
+- Collaborated with development and operation teams to improve the CI/CD pipelines resulting in a 25% increase in deployment frequency and reliability
+- Conducted root cause analysis for incidents and implemented preventative measures to reduce future occurrences.
+- Documented processes and procedures to enhance team knowledge sharing and onboarding of new members.
+
+**IT Business Assistant @ Kelmass Sarl - Cameroon (_January 2018 - December 2020_)**
+- Monitored and optimized cloud resources, reducing costs by 17% through resource right-sizing and cost management strategies.
+- Collaborated with development and operation teams to improve the CI/CD pipelines resulting in a 25% increase in deployment frequency and reliability
+- Ensured security and compliance of cloud environments by implementing security best practices, including identity and access management, network security, and encryption.
+- Automated infrastructure provisioning and configuration using Infrastructure as Code (IaC) tools like Terraform and Ansible, reducing deployment time by 45%.
+
+**IT Business Assistant @ Kelmass Sarl - Cameroon (_January 2018 - December 2020_)**
+- Utilized MS SQL, data warehousing programs, tableau, and other dashboard/visualization toolsets for data intelligence and analysis.
+- Utilized Google Analytics and Google Tag Manager and implemented new scripts that increased performance by 25%.
+- Understood strategic business needs and plans for growth and converted data into actionable insights by predicting and modelling future outcomes.
+- Identified, analyzed, and executed new and potential products, services and advertising opportunities.
+
+**Head of the Statistics Office @ Ministry of Energy and Water Resource - Cameroon (_August 2012 - January 2018_)**
+- Managed IT infrastructure, ensuring 99% system uptime and reducing data retrieval times by 20% for hydraulic resources databases.
+- Increased data accuracy by 15% in regional energy and water statistics, speeding up decision-making for key regional projects.
+- Updated and maintained databases for 50+ professional organizations, improving data accessibility by 30% and reporting efficiency.
+- Led data collection operations, achieving 100% compliance with reporting deadlines and improving tracking of concession agreements by 25%.
+
+**Risk and security Consultant @ ITS Group - Cameroon (_August 2008 - May 2012_)**
+- Conducted risk assessments using the COBIT framework to evaluate IT governance and security risks, identifying vulnerabilities and implementing strategies that reduced incidents by 30%.
+- Led cross-functional incident response teams during critical security breaches, coordinating rapid containment within 2 hours, mitigating data loss, and conducting post-incident reviews that led to a 50% reduction in response times for future incidents.
+- Advised clients on cybersecurity strategy and implemented security frameworks, resulting in a notable reduction of security risks and a 25% increase in audit compliance scrores, and alignment with best practices.
 
 ## Projects
 ### Data-Driven EEG Band Discovery with Decision Trees
