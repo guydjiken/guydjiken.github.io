@@ -1,4 +1,5 @@
 # Cybersecurity Analyst | Cloud Security | DevOps Engineer
+
 ## Summary/About Me
 Experienced cybersecurity professional transitioning from a strong DevOps background, skilled in securing cloud environments and implementing security best practices across development pipelines.
 Proficient in Linux, SQL, Python, and cloud platforms such as AWS and Azure, with hands-on experience integrating security controls into DevOps workflows.
@@ -9,6 +10,7 @@ Seeking a role where data security is critical, ensuring the protection and mana
 #### Security/Compliance Frameworks
 - Payment Card Industry Data Security Standard Compliance (PCI DSS)
 - NIST CyberSecurity Framework 2.0
+-  Health Insurance Portability and Accountability Act (HIPAA)
 - NIST Risk Management Framework (RMF)
 
 #### Security Strategy
@@ -81,17 +83,22 @@ Seeking a role where data security is critical, ensuring the protection and mana
 
 
 ## Work Experience
+**Direct Support Professional @ Symbral Foundation - Unites States (_September 2022 - Present_)**
+- Maintained 100% compliance with HIPAA regulations, successfully securing the sensitive health data of over 50 clients by implementing strict access control and monitoring procedures.
+- Reduced potential data breaches by 30% through regular audits of health records and the implementation of enhanced data protection protocols.
+- Implemented secure communication practices that reduced unauthorized access risks by 25%, ensuring all PHI transmissions adhered to regulatory standards.
+- Trained and guided a team of 15 staff members on HIPAA compliance, contributing to a 20% reduction in reportable privacy incidents over the course of a year.
+
 **DevOps Enegineer remote @ Techdeval SAS - France (_June 2023 - May 2024_)**
 - Automated software deployment processes, reduced deployment times from 2 hours/days to 10 minutes/hours
 - Collaborated with development and operation teams to improve the CI/CD pipelines resulting in a 25% increase in deployment frequency and reliability
 - Conducted root cause analysis for incidents and implemented preventative measures to reduce future occurrences.
 - Documented processes and procedures to enhance team knowledge sharing and onboarding of new members.
 
-**IT Business Assistant @ Kelmass Sarl - Cameroon (_January 2018 - December 2020_)**
-- Monitored and optimized cloud resources, reducing costs by 17% through resource right-sizing and cost management strategies.
-- Collaborated with development and operation teams to improve the CI/CD pipelines resulting in a 25% increase in deployment frequency and reliability
-- Ensured security and compliance of cloud environments by implementing security best practices, including identity and access management, network security, and encryption.
-- Automated infrastructure provisioning and configuration using Infrastructure as Code (IaC) tools like Terraform and Ansible, reducing deployment time by 45%.
+**Assistant Professor, Education Coordinator @ University of Douala - Cameroon (_January 2019 - June 2022_)**
+- Developed and taught 4 courses on cybersecurity and cloud computing to over 200 students, resulting in 90% students success rate in achieving certifications in cloud security and database protection.
+- led research projects focused on IoT, cloud, data monitoring, and best practices in cybersecurity, publishing 4 peer-reviewed papers that contributed to improved cloud infrastructure and data protection protocols. 
+- Collabored withexecutives and industry experts to integrate the latest cybersecurity best practices in cloud computing, network, and database security into the curriculum, resulting in a 30% increase in student placement in cloud and data security roles.
 
 **IT Business Assistant @ Kelmass Sarl - Cameroon (_January 2018 - December 2020_)**
 - Utilized MS SQL, data warehousing programs, tableau, and other dashboard/visualization toolsets for data intelligence and analysis.
@@ -112,25 +119,32 @@ Seeking a role where data security is critical, ensuring the protection and mana
 
 ## Projects
 ### Cybersecurity 
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+[Publication](https://drive.google.com/drive/folders/19OdUSbGw8NydcRfxtrMG3d5m-NdZsoZp?usp=sharing)
 
 Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
 
 ![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
 
-### Cloud Computing
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
+### Cloud Security
+[Publication](https://drive.google.com/drive/folders/1B5Gd5GxUnM1DELvAHG5NjXk0fM2wFUlV?usp=sharing)
 
 Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
 
 ### Network Architecture
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
+[Publication](https://drive.google.com/drive/folders/10mwJjuB_RUFzjyhDX6PpCIwpUnkggcdy?usp=sharing)
 
 Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We 
 
 ![Bike Study](/assets/img/bike_study.jpeg)
 - [Certification](https://drive.google.com/drive/folders/1FvMT5sQbRIF7yCM1r0YC4RDufxFemc9l)
 
+### Oracle Database Administration
+[Publication](https://drive.google.com/drive/folders/1FTVuFWvynqn_BDWrrMu--zNoX0lnbpWg?usp=sharing)
+
+Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We 
+
+![Bike Study](/assets/img/bike_study.jpeg)
+- [Certification](https://drive.google.com/drive/folders/1FvMT5sQbRIF7yCM1r0YC4RDufxFemc9l)
 
 ## Publications
 1. Fabrice M., Guy L. D., and Laurent N., New Software Architecture for Monitoring Mobile Applications, International Journal On Advances in Internet Technology, volume 15, numbers 3 and 4, 2022, Dec 31, 2022. [here](https://personales.upv.es/thinkmind/IntTech/IntTech_v15_n34_2022/inttech_v15_n34_2022_4.html)
