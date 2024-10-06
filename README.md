@@ -8,9 +8,10 @@ Seeking a role where data security is critical, ensuring the protection and mana
 
 ## Projects
 ### Cybersecurity 
-#### [Triage and Threat Response](https://github.com/guydjiken/cybersecurity/blob/main/Triage-IncidentResponse.md)
- monitored and triaged security event logs using Splunk and Chronicle SIEM tools, and investigated suspicious activity with CrowdStrike Falcon and Carbon Black EDR platforms, conducting basic forensics analysis. Configured and managed Suricata Intrusion Detection Systems (IDS), developing custom detection signatures to enhance threat detection. Additionally, escalated significant security incidents to higher-tier analysts following MITRE ATT&CK and NIST frameworks for structured threat investigation and response.
-
+#### Triage and Threat Response [Project](https://github.com/guydjiken/cybersecurity/blob/main/Triage-IncidentResponse.md)
+ - Monitored and triaged security event logs using Splunk and Chronicle SIEM tools, and investigated suspicious activity with CrowdStrike Falcon and Carbon Black EDR platforms, conducting basic forensics analysis. 
+ - Configured and managed Suricata Intrusion Detection Systems (IDS), developing custom detection signatures to enhance threat detection. 
+ -Escalated significant security incidents to higher-tier analysts following MITRE ATT&CK and NIST frameworks for structured threat investigation and response.
 
 ### Cloud Security
 [Publication](https://drive.google.com/drive/folders/1B5Gd5GxUnM1DELvAHG5NjXk0fM2wFUlV?usp=sharing)
