@@ -5,6 +5,29 @@ Experienced cybersecurity professional transitioning from a strong DevOps backgr
 Proficient in Linux, SQL, Python, and cloud platforms such as AWS and Azure, with hands-on experience integrating security controls into DevOps workflows.
 Certified in CompTIA Security+, AWS, Google Cybersecurity Professional, and CCNA Certified in Network (Cisco), with expertise in threat identification, vulnerability management, and compliance with industry standards like NIST.
 Seeking a role where data security is critical, ensuring the protection and management of sensitive information in compliance with privacy regulations.
+
+## Projects
+### Cybersecurity 
+#### [Triage and Threat Response](https://github.com/guydjiken/cybersecurity/blob/main/Triage-IncidentResponse.md)
+ monitored and triaged security event logs using Splunk and Chronicle SIEM tools, and investigated suspicious activity with CrowdStrike Falcon and Carbon Black EDR platforms, conducting basic forensics analysis. Configured and managed Suricata Intrusion Detection Systems (IDS), developing custom detection signatures to enhance threat detection. Additionally, escalated significant security incidents to higher-tier analysts following MITRE ATT&CK and NIST frameworks for structured threat investigation and response.
+
+
+### Cloud Security
+[Publication](https://drive.google.com/drive/folders/1B5Gd5GxUnM1DELvAHG5NjXk0fM2wFUlV?usp=sharing)
+
+Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables.
+
+### Network Architecture
+[Publication](https://drive.google.com/drive/folders/10mwJjuB_RUFzjyhDX6PpCIwpUnkggcdy?usp=sharing)
+
+Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables.
+
+
+### Oracle Database Administration
+[Publication](https://drive.google.com/drive/folders/1FTVuFWvynqn_BDWrrMu--zNoX0lnbpWg?usp=sharing)
+
+Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We 
+
 ## Areas of expertise/Qualification
 
 #### Security/Compliance Frameworks
@@ -29,7 +52,7 @@ Seeking a role where data security is critical, ensuring the protection and mana
 - EDR: Microsoft Defender EDR, Symantec EDR
 
 #### Programming/Database
-- Programming: SQL, Python, JavaScript, Java
+- Programming: SQL, Python, Go, JavaScript, Java
 - Data serialization language: Yaml, Json
 - Database: Relational (Oracle, MySQL), NoSQL (MongoDB, Redis), Data Warehouse (Redshift)
 
@@ -55,7 +78,10 @@ Seeking a role where data security is critical, ensuring the protection and mana
 - Machine Learning: Supervised learning, Unsupervised learning, Reinforcement learning
 - Generative AI: ChatGPT, Gemini, Microsoft copilot
 
-## Certifications/Organisation
+## Certifications/Organisation 
+
+[Credly1](https://www.credly.com/users/lahlou-djiken)
+[Credly2](https://www.credly.com/users/guy-lahlou-djiken)
 - Certified Ethical Hacker (CEH) v12 | EC_Council (In progress)
 - Google Cybersecurity Certificate | Google-Coursera (_September 2024_)
 - Cisco Certified Network Associate (CCNA) | Cisco (_August 2024_)
@@ -117,34 +143,6 @@ Seeking a role where data security is critical, ensuring the protection and mana
 - Led cross-functional incident response teams during critical security breaches, coordinating rapid containment within 2 hours, mitigating data loss, and conducting post-incident reviews that led to a 50% reduction in response times for future incidents.
 - Advised clients on cybersecurity strategy and implemented security frameworks, resulting in a notable reduction of security risks and a 25% increase in audit compliance scrores, and alignment with best practices.
 
-## Projects
-### Cybersecurity 
-[Publication](https://drive.google.com/drive/folders/19OdUSbGw8NydcRfxtrMG3d5m-NdZsoZp?usp=sharing)
-
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
-
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
-
-### Cloud Security
-[Publication](https://drive.google.com/drive/folders/1B5Gd5GxUnM1DELvAHG5NjXk0fM2wFUlV?usp=sharing)
-
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
-
-### Network Architecture
-[Publication](https://drive.google.com/drive/folders/10mwJjuB_RUFzjyhDX6PpCIwpUnkggcdy?usp=sharing)
-
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We 
-
-![Bike Study](/assets/img/bike_study.jpeg)
-- [Certification](https://drive.google.com/drive/folders/1FvMT5sQbRIF7yCM1r0YC4RDufxFemc9l)
-
-### Oracle Database Administration
-[Publication](https://drive.google.com/drive/folders/1FTVuFWvynqn_BDWrrMu--zNoX0lnbpWg?usp=sharing)
-
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We 
-
-![Bike Study](/assets/img/bike_study.jpeg)
-- [Certification](https://drive.google.com/drive/folders/1FvMT5sQbRIF7yCM1r0YC4RDufxFemc9l)
 
 ## Publications
 1. Fabrice M., Guy L. D., and Laurent N., New Software Architecture for Monitoring Mobile Applications, International Journal On Advances in Internet Technology, volume 15, numbers 3 and 4, 2022, Dec 31, 2022. [here](https://personales.upv.es/thinkmind/IntTech/IntTech_v15_n34_2022/inttech_v15_n34_2022_4.html)
