@@ -13,6 +13,10 @@ Seeking a role where data security is critical, ensuring the protection and mana
  - Configured and managed Suricata Intrusion Detection Systems (IDS), developing custom detection signatures to enhance threat detection. 
  - Escalated significant security incidents to higher-tier analysts following MITRE ATT&CK and NIST frameworks for structured threat investigation and response.
 
+####  Phishing Incident Response Using Playbooks [Project](https://github.com/guydjiken/cybersecurity/blob/main/Phishing-IncidentResponse.md)
+ - Demonstrated the investigation and resolution of a phishing incident involving a malicious file hash.
+ - Showcased the ability to follow a structured incident response process using a phishing playbook and flowchart to investigate and resolve security alerts in a SOC environment. response.
+
 ### Cloud Security
 [Publication](https://drive.google.com/drive/folders/1B5Gd5GxUnM1DELvAHG5NjXk0fM2wFUlV?usp=sharing)
 
