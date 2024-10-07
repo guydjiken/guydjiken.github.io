@@ -1,0 +1,66 @@
+playbook:
+  name: "Phishing Incident Response"
+  description: "A structured process to investigate and respond to phishing incidents."
+  steps:
+    - step: 1
+      name: "Review Alert"
+      actions:
+        - description: "Access the alert in the SIEM system."
+        - description: "Identify the alert type (e.g., phishing)."
+        - description: "Check alert severity: Critical, High, Medium, or Low."
+        - description: "Review sender details (email address and display name)."
+        - description: "Analyze the subject line and message body for phishing indicators (e.g., urgency, grammatical errors)."
+        - description: "Check if the email contains any attachments or links."
+      decisions:
+        - condition: "If alert severity is Medium or High, and email contains suspicious elements."
+          next_step: 2
+        - condition: "If alert severity is Low, and no suspicious elements are found."
+          action: "Close alert."
+
+    - step: 2
+      name: "Investigate the Phishing Email"
+      actions:
+        - description: "Investigate the sender's email address for inconsistencies."
+        - description: "Check the display name and domain for mismatches."
+        - description: "Analyze the message body for phishing language (e.g., urgency, requests for sensitive information)."
+        - description: "If an attachment is present, calculate the file's SHA256 hash."
+        - description: "Check the file hash against known malicious hashes in internal/external threat intelligence."
+        - description: "Check if the email contains any suspicious or shortened links."
+      decisions:
+        - condition: "If a malicious file hash is detected, or sender details are suspicious."
+          next_step: 3
+        - condition: "If no malicious activity is detected."
+          action: "Close alert."
+
+    - step: 3
+      name: "Escalate or Close the Alert"
+      actions:
+        - description: "Escalate the ticket to Tier 2 if malicious content or activity is confirmed."
+        - description: "Update the ticket status to 'Escalated'."
+        - description: "Record the investigation findings in the ticket (e.g., malicious hash, suspicious sender, message body)."
+        - description: "If no threats are detected, close the ticket as a false positive."
+        - description: "Update the ticket status to 'Closed' if no malicious activity is found."
+      decisions:
+        - condition: "If escalated, move to Step 4."
+        - condition: "If closed, end the playbook."
+
+    - step: 4
+      name: "Incident Response and Mitigation"
+      actions:
+        - description: "Tier 2 analysts isolate the affected systems if a phishing link or attachment was accessed."
+        - description: "Conduct additional forensic analysis (e.g., memory dumps, network traffic analysis) if necessary."
+        - description: "Remove the malicious file from any affected systems."
+        - description: "Block the sender's email domain and any malicious IP addresses or URLs."
+        - description: "If sensitive data was compromised, escalate to management and legal teams as required."
+      decisions:
+        - condition: "Once mitigated, proceed to Step 5."
+
+    - step: 5
+      name: "Final Report and Documentation"
+      actions:
+        - description: "Update the ticket comments with a summary of the findings and actions taken."
+        - description: "Generate a detailed incident report."
+        - description: "Summarize the incident timeline and actions taken (e.g., isolating systems, blocking email domains)."
+        - description: "Submit the report to the SOC manager for review."
+      decisions:
+        - condition: "End of playbook."
