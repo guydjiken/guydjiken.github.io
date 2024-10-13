@@ -78,18 +78,16 @@ Seeking a role where data security is critical, ensuring the protection and mana
 ### Cloud Computing
 [Publication](https://drive.google.com/drive/folders/1B5Gd5GxUnM1DELvAHG5NjXk0fM2wFUlV?usp=sharing)
 
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables.
+
 
 ### Network Architecture
 [Publication](https://drive.google.com/drive/folders/10mwJjuB_RUFzjyhDX6PpCIwpUnkggcdy?usp=sharing)
 
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables.
 
 
 ### Oracle Database Administration
 [Publication](https://drive.google.com/drive/folders/1FTVuFWvynqn_BDWrrMu--zNoX0lnbpWg?usp=sharing)
 
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We 
 
 
 ## Certifications/Organisation 
