@@ -72,7 +72,7 @@ Seeking a role where data security is critical, ensuring the protection and mana
  - Performed domain search and threat analysis using Chronicle SIEM.
  - Analyzed search results to assess threat impact on assets and events.
  - Investigated threat intelligence data and resolved IP addresses for deeper insights.
- - Maintained and updated incident handler's journal to document findigns and response actions.
+ - Maintained and updated incident handler's journal to document findings and response actions.
 
 
 ### Cloud Computing
