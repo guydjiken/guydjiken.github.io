@@ -110,7 +110,7 @@ Seeking a role where data security is critical, ensuring the protection and mana
 - Google Analytics individual Qualification | Google (September 2022_) 
 
 ## Education/Workforce
-- Google Cybersecurity Professinal  - coursera | Techsgivings (October 2024_)
+- Google Cybersecurity Professional  - coursera | Techsgivings (October 2024_)
 - Cloud Computing Certification WDLL | University of District of Columbia - USA (September 2023_)
 - Training Certified Ethical Hacker (CEH) v12 | VETS GROUP (November 2023_)
 - Training Payment Card Industry Data Security Standard (PCI DSS) v4.0.1 | Baxter Clexis Academy (May 2023_)
@@ -121,7 +121,7 @@ Seeking a role where data security is critical, ensuring the protection and mana
 
 
 ## Work Experience
-**Direct Support Professional @ Symbral Foundation - Washington DC, Unitesd States (_September 2022 - Present_)**
+**Direct Support Professional @ Symbral Foundation - Washington DC, United States (_September 2022 - Present_)**
 - Maintained 100% compliance with HIPAA regulations, successfully securing the sensitive health data of over 50 clients by implementing strict access control and monitoring procedures.
 - Reduced potential data breaches by 30% through regular audits of health records and the implementation of enhanced data protection protocols.
 - Implemented secure communication practices that reduced unauthorized access risks by 25%, ensuring all PHI transmissions adhered to regulatory standards.
@@ -133,7 +133,7 @@ Seeking a role where data security is critical, ensuring the protection and mana
 - Conducted root cause analysis for incidents and implemented preventative measures to reduce future occurrences.
 - Documented processes and procedures to enhance team knowledge sharing and onboarding of new members.
 
-**System Administrator @ VETS Group - Washington DC, Unitesd States (_June 2023 - November 2023_)**
+**System Administrator @ VETS Group - Washington DC, United States (_June 2023 - November 2023_)**
 - Collaborated with leadership team to enhance wired/wireless network infrastructure, achieving uptime of 99.59%.
 - Secured Windows and Linux systems, driving operational enhancements and boosting network efficiency by 10%.
 - Participated in configuring, documenting, and deploying application environments to optimize system performance and reliability.
