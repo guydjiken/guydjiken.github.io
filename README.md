@@ -38,7 +38,7 @@ Seeking a role where data security is critical, ensuring the protection and mana
 - Ticketing: Jira, Slack, NowService.
 - Documentation: Github, Google suite, Confluence.
 
-#### Automation/Infrastructiure as Code
+#### Automation/Infrastructure as Code
 - Continuous Integration/Continuous Delivery: GitLab, Jenkins, GitOps, AWS codePipeline.
 - Infrastructure as Code: Ansible, Terraform, Puppet, Chef.
 - Orchestration: Docker, Kubernetes, OpenShift, AWS Faragate.
@@ -52,7 +52,7 @@ Seeking a role where data security is critical, ensuring the protection and mana
 - Identity Access Management: MFA, Least privilege, Strong Passowrd, VPN.
 - Protocol: IPSec, TLS/SSL, HTTP, Telnet, HTTPS, SMNP, RDP, Kerberos.
 
-#### Artificiel Intellegence/Large Language Model
+#### Artificial Intelligence/Large Language Model
 - Machine Learning: Supervised learning, Unsupervised learning, Reinforcement learning.
 - Generative AI: NotebookLM, Lakera Guard, ChatGPT, Gemini, Microsoft Copilot.
 
