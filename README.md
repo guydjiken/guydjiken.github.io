@@ -1,4 +1,4 @@
-# Cybersecurity Analyst | DevOps | Cloud Engineer
+# Cyber security Analyst | DevOps | Cloud Engineer
 
 ## Summary/About Me
 Experienced cybersecurity professional transitioning from a strong DevOps background, skilled in securing cloud environments and implementing security best practices across development pipelines.
@@ -59,16 +59,22 @@ Seeking a role where data security is critical, ensuring the protection and mana
 
 ## Projects
 ### Cybersecurity 
-#### Triage and Threat Response [Project](https://github.com/guydjiken/cybersecurity/blob/main/Triage-IncidentResponse.md)
+### Malware attack leading to NBN Outage [Project1](https://github.com/guydjiken/cybersecurity/blob/main/spring4shell.md)
+ - Learned how to quickly and effectively respond to an ongoing malware attack, minimizing impact. 
+ - Conducted in-depth analysis of the malware's behavior to understand its scope and origins. 
+ - Implemented technical solutions to mitigate and block the malware from further exploiting vulnerabilities.
+ - Prepared a detailed postmortem analysis, identifying the root cause and outlining steps for future prevention.
+
+#### Triage and Threat Response [Project2](https://github.com/guydjiken/cybersecurity/blob/main/Triage-IncidentResponse.md)
  - Monitored and triaged security event logs using Splunk and Chronicle SIEM tools, and investigated suspicious activity with CrowdStrike Falcon and Carbon Black EDR platforms, conducting basic forensics analysis. 
  - Configured and managed Suricata Intrusion Detection Systems (IDS), developing custom detection signatures to enhance threat detection. 
  - Escalated significant security incidents to higher-tier analysts following MITRE ATT&CK and NIST frameworks for structured threat investigation and response.
 
-#### Phishing Incident Response Using Playbooks [Project](https://github.com/guydjiken/cybersecurity/blob/main/Phishing-IncidentResponse.md)
+#### Phishing Incident Response Using Playbooks [Project3](https://github.com/guydjiken/cybersecurity/blob/main/Phishing-IncidentResponse.md)
  - Demonstrated the investigation and resolution of a phishing incident involving a malicious file hash.
  - Showcased the ability to follow a structured incident response process using a phishing playbook and flowchart to investigate and resolve security alerts in a SOC environment.
 
-#### Security Incident Investigation Using Chronicle SIEM [Project](https://github.com/guydjiken/cybersecurity/blob/main/Chronicle.md)
+#### Security Incident Investigation Using Chronicle SIEM [Project4](https://github.com/guydjiken/cybersecurity/blob/main/Chronicle.md)
  - Performed domain search and threat analysis using Chronicle SIEM.
  - Analyzed search results to assess threat impact on assets and events.
  - Investigated threat intelligence data and resolved IP addresses for deeper insights.
