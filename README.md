@@ -59,7 +59,7 @@ Seeking a role where data security is critical, ensuring the protection and mana
 
 ## Projects
 ### Cybersecurity 
-### Malware attack leading to NBN Outage [Project1](https://github.com/guydjiken/cybersecurity/blob/main/spring4shell.md)
+#### Malware attack leading to NBN Outage [Project1](https://github.com/guydjiken/cybersecurity/blob/main/spring4shell.md)
  - Learned how to quickly and effectively respond to an ongoing malware attack, minimizing impact. 
  - Conducted in-depth analysis of the malware's behavior to understand its scope and origins. 
  - Implemented technical solutions to mitigate and block the malware from further exploiting vulnerabilities.
