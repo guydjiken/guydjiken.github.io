@@ -121,36 +121,30 @@ Seeking a role where data security is critical, ensuring the protection and mana
 
 
 ## Work Experience
-**Direct Support Professional @ Symbral Foundation - Washington DC, United States (_September 2022 - Present_)**
+**Junior Cyber security Analyst @ Symbral Foundation - Washington DC, United States (_September 2023 - Present_)**
 - Maintained 100% compliance with HIPAA regulations, successfully securing the sensitive health data of over 50 clients by implementing strict access control and monitoring procedures.
 - Reduced potential data breaches by 30% through regular audits of health records and the implementation of enhanced data protection protocols.
 - Implemented secure communication practices that reduced unauthorized access risks by 25%, ensuring all PHI transmissions adhered to regulatory standards.
 - Trained and guided a team of 15 staff members on HIPAA compliance, contributing to a 20% reduction in reportable privacy incidents over the course of a year.
 
-**DevOps Enegineer remote @ Techdeval SAS - France (_December 2023 - May 2024_)**
-- Automated software deployment processes, reduced deployment times from 2 hours/days to 10 minutes/hours
-- Collaborated with development and operation teams to improve the CI/CD pipelines resulting in a 25% increase in deployment frequency and reliability
-- Conducted root cause analysis for incidents and implemented preventative measures to reduce future occurrences.
-- Documented processes and procedures to enhance team knowledge sharing and onboarding of new members.
-
-**System Administrator @ VETS Group - Washington DC, United States (_June 2023 - November 2023_)**
+**Security Analyst @ VETS Group - Washington DC, United States (_February 2023 - August 2023_)**
 - Collaborated with leadership team to enhance wired/wireless network infrastructure, achieving uptime of 99.59%.
 - Secured Windows and Linux systems, driving operational enhancements and boosting network efficiency by 10%.
 - Participated in configuring, documenting, and deploying application environments to optimize system performance and reliability.
 - Managed billing information using an Interactive Voice Response (IVR) system to improve end-user experience and reduce manual errors by 42%.
+  
+**DevOps Engineer Remote @ Byteforce - Canada (_July 2022 - January 2023_)**
+- Automated software deployment processes, reduced deployment times from 2 hours/days to 10 minutes/hours
+- Collaborated with development and operation teams to improve the CI/CD pipelines resulting in a 25% increase in deployment frequency and reliability
+- Conducted root cause analysis for incidents and implemented preventative measures to reduce future occurrences.
+- Documented processes and procedures to enhance team knowledge sharing and onboarding of new members.
 
 **Assistant Professor, Education Coordinator @ University of Douala - Cameroon (_January 2019 - June 2022_)**
 - Developed and taught 4 courses on cybersecurity and cloud computing to over 200 students, resulting in 90% students success rate in achieving certifications in cloud security and database protection.
 - Led research projects focused on IoT, cloud, data monitoring, and best practices in cybersecurity, publishing 4 peer-reviewed papers that contributed to improved cloud infrastructure and data protection protocols. 
 - Collabored withexecutives and industry experts to integrate the latest cybersecurity best practices in cloud computing, network, and database security into the curriculum, resulting in a 30% increase in student placement in cloud and data security roles.
 
-**IT Business Assistant @ Kelmass Sarl - Cameroon (_January 2018 - December 2020_)**
-- Utilized MS SQL, data warehousing programs, tableau, and other dashboard/visualization toolsets for data intelligence and analysis.
-- Utilized Google Analytics and Google Tag Manager and implemented new scripts that increased performance by 25%.
-- Understood strategic business needs and plans for growth and converted data into actionable insights by predicting and modelling future outcomes.
-- Identified, analyzed, and executed new and potential products, services and advertising opportunities.
-
-**Head of the Statistics Office @ Ministry of Energy and Water Resource - Cameroon (_August 2012 - January 2018_)**
+**Head of the Statistics Office @ Ministry of Energy and Water Resource - Cameroon (_June 2012 - January 2018_)**
 - Managed IT infrastructure, ensuring 99% system uptime and reducing data retrieval times by 20% for hydraulic resources databases.
 - Increased data accuracy by 15% in regional energy and water statistics, speeding up decision-making for key regional projects.
 - Updated and maintained databases for 50+ professional organizations, improving data accessibility by 30% and reporting efficiency.
