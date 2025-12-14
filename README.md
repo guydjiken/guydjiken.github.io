@@ -1,4 +1,4 @@
-# Cyber security Analyst | DevOps | Cloud Engineer
+# Software QA Engineer | Security Analyst | DevOps
 
 ## Summary/About Me
 Experienced cybersecurity professional transitioning from a strong DevOps background, skilled in securing cloud environments and implementing security best practices across development pipelines.
