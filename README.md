@@ -8,6 +8,15 @@ Seeking a role where data security is critical, ensuring the protection and mana
 
 ## Areas of expertise/Qualification
 
+#### Quality Assurance/Tester
+- Platforms: MacOS, Windows, Linux, iOS, Android.
+- Browsers: Chrome, Safari, Firefox, Edge, Opera.
+- Testing Tools: Chrome DevTools, BrowserStack, Android Studio, Xcode, ADB.
+- Test Management: Jira, TestRail, Kiwi.
+- API Testing: Postman, Charles Proxy, REST API.
+- DBMS: MySQL, Oracle, PostgreSQL, MongoDB.
+- AI/Automation: GitHub Copilot, ChatGPT, Claude, Emily AI, Emergent SH.
+
 #### Security/Compliance Frameworks
 - Payment Card Industry Data Security Standard Compliance (PCI DSS).
 - NIST CyberSecurity Framework 2.0.
@@ -127,7 +136,15 @@ Seeking a role where data security is critical, ensuring the protection and mana
 
 
 ## Work Experience
-**Junior Cyber security Analyst @ Symbral Foundation - Washington DC, United States (_September 2023 - Present_)**
+**Software QA Analyst @ Reelly - Washington DC, United States (_June 2025 - Present_)**
+- Managed the defect lifecycle by discovering and reporting over 30 critical bugs across unit, integration, and system testing levels using Jira
+- Wrote and executed test cases in TestRail based on technical specifications and business requirements.
+- Executed functional, UI, smoke, and regression testing across Mobile and Web platforms
+- Conducted cross-browser/device compatibility testing (Chrome, Safari, Firefox, iOS, Android, Edge).
+- Executed API validation (Postman, Chrome DevTools), ensuring data integrity and backend compliance.
+- Contributed test findings and bug resolutions during weekly Agile Scrum ceremonies within the SDLC
+  
+**Junior Cyber security Analyst @ Symbral Foundation - Washington DC, United States (_September 2023 - February 2025_)**
 - Maintained 100% compliance with HIPAA regulations, successfully securing the sensitive health data of over 50 clients by implementing strict access control and monitoring procedures.
 - Reduced potential data breaches by 30% through regular audits of health records and the implementation of enhanced data protection protocols.
 - Implemented secure communication practices that reduced unauthorized access risks by 25%, ensuring all PHI transmissions adhered to regulatory standards.
